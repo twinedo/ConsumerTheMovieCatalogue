@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Home-->
+    <string name="app_name">ConsumerTheMovieCatalogue</string>
+    <string name="movies">Film</string>
+    <string name="tvShows">Serial TV</string>
+    <string name="fav_mov">Film Favorit Saya</string>
+    <string name="more_info">Selengkapnya&#8230;</string>
+    <string name="textFavMovie">Tidak Ada Favorit</string>
+    <string name="lang">Ubah Bahasa</string>
+
+    <!--Detail-->
+    <string name="enlarge">(Klik gambar untuk memperbesar)</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="rating">Penilaian</string>
+    <string name="overview">Ulasan Singkat</string>
+    <string name="genre">Genre</string>
+    <string name="trailer">Trailer</string>
+    <string name="cast">Pemeran</string>
+    <string name="share">Bagikan ke:</string>
+    <string name="as">sebagai</string>
+
+    <!--Error-->
+    <string name="error">Terjadi Kesalahan. Mohon periksa jaringan anda. </string>
+</resources>

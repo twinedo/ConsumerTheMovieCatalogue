@@ -1,0 +1,25 @@
+<resources>
+
+    <!--Home-->
+    <string name="app_name">ConsumerTheMovieCatalogue</string>
+    <string name="movies">Movies</string>
+    <string name="tvShows">TV Shows</string>
+    <string name="textFavMovie">No Favorite yet</string>
+    <string name="fav_mov">My Favorite Movies</string>
+    <string name="more_info">More info&#8230;</string>
+    <string name="lang">Change Language</string>
+
+    <!-- Detail-->
+    <string name="enlarge">(Click Image to enlarge)</string>
+    <string name="release_date">Release Date</string>
+    <string name="rating">Rating</string>
+    <string name="overview">Overview</string>
+    <string name="genre">Genre</string>
+    <string name="trailer">Trailer</string>
+    <string name="cast">Cast</string>
+    <string name="share">Share to: </string>
+    <string name="as">as</string>
+
+    <!--Error-->
+    <string name="error">Something went wrong. Please check your connection. </string>
+</resources>
